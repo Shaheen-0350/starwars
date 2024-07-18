@@ -1,4 +1,3 @@
-window.alert('Use desktop mode and landscape mode when using mobile')
 const userInput = document.getElementById('userInput');
 const characterImage = document.getElementById('characterImage');
 const Name = document.getElementById('name');
